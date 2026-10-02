@@ -45,3 +45,5 @@ prompts/
 ## Aprendizados
  
 Durante o projeto foi possível compreender como a IA pode ser utilizada para organizar informações, estudar conteúdos técnicos e construir conhecimento utilizando fontes confiáveis.
+
+https://notebook.google.com/notebook/29e0b6d3-00b8-485c-96dd-0c45d82af970
