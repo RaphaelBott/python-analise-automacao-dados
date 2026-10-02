@@ -6,8 +6,8 @@ Este projeto foi desenvolvido utilizando NotebookLM para criar um ambiente de ap
  
 ## Objetivo
  
-Construir um "segundo cérebro" capaz de organizar conhecimentos e responder perguntas com base em fontes selecionadas.
- 
+Construir um segundo cérebro utilizando IA generativa e fontes confiáveis para apoiar o estudo de Python aplicado à análise e automação de dados.
+
 ## Tecnologias Estudadas
  
 - Python
